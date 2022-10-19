@@ -1,4 +1,4 @@
-# hello-world
+# hi! Welcome to my profile!
 my first repository
 
 Hi!
